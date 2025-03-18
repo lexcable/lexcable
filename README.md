@@ -55,7 +55,7 @@ I'm a **passionate full-stack developer** with expertise in **Python, JavaScript
 ## 😄 **Pronouns:** 
 She/Her  
 ## ⚡ **Fun fact:** 
-When I’m not coding, I’m **reverse-engineering software, exploring AI models, or diving deep into algorithmic problem-solving**!  
+When I’m not coding, I’m **reverse-engineering software, exploring AI models, or diving deep into algorithmic problem-solving.**!  
 
 ---
 
