@@ -2,13 +2,13 @@
 
 ### 🔥 Full-Stack Developer | Problem Solver | Tech Enthusiast  
 
-I'm a **passionate full-stack developer** with expertise in **Python, JavaScript, Node.js, HTML, CSS, and C++**. My journey into tech started with **YouTube tutorials**, **FreeCodeCamp challenges**, and **LinkedIn certifications**, and I've been coding my way into building **scalable and efficient solutions** ever since!  
+I'm a **passionate full-stack developer** with expertise in **Python, JavaScript, Node.js, HTML, CSS,PHP and C++**. My journey into tech started with **YouTube tutorials**, **FreeCodeCamp challenges**, and **LinkedIn certifications**, and I've been coding my way into building **scalable and efficient solutions** ever since!  
 
 ## 🛠️ Tech Stack  
-##### **Frontend:** HTML, CSS, JavaScript, React.js
+##### **Frontend:** HTML, CSS, JavaScript, React.js, PHP.
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-##### **Backend:** Python (Django, Flask), Node.js (Express.js)
+##### **Backend:** Python (Django, Flask), Node.js (Express.js), Laravel
 -  ![Python Developer](https://img.shields.io/badge/Python_Enthusiast-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
